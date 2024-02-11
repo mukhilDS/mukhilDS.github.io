@@ -1,3 +1,4 @@
+[About Me](./README.md) | [Projects](./projects.md) | [Certificates](./certificates.md)
 ## Introduction
 I am Mukhil Muruganantham Prakaash, pursuing a B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence and Data Analytics. Passionate about data science, I have a keen interest in machine learning, data visualization, and time series analysis.
 
