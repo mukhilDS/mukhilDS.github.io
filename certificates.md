@@ -8,10 +8,11 @@
    - Organization: Organization name from resume
    - Date: Date from resume
    - Key Learning: Lorem ipsum
-
-...
-
-8. Certificate Title 8
+3. Certificate Title 8
+   - Organization: Organization name from resume
+   - Date: Date from resume
+   - Key Learning: Lorem ipsum
+4.. Certificate Title 4
    - Organization: Organization name from resume
    - Date: Date from resume
    - Key Learning: Lorem ipsum
